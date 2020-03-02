@@ -1,0 +1,121 @@
+center{
+	max-width: 1550px;
+	margin: 0 auto;
+	width: 90%;
+  width: 100%;
+}
+.red1{
+    width: 49.5%;
+    display: inline-block;
+    
+}
+.red2{
+    width: 49.5%;
+    display: inline-block;
+   float: right;
+}
+.red3{
+    width: 49.5%;
+    display: inline-block;
+   float: left;
+margin-top: 245px;
+}
+.container2 .block1 h2{
+	color: #e7e7e7;
+	font-size: 90px;
+	font-family: 'Proxima Nova Bold';
+	text-transform: uppercase;
+	margin-top: -500px;
+    text-align: right;
+    padding: 0px 10px 0px 0px;
+}
+.container2 .text_bottom{
+    font-size: 20px;
+    color: #000000;
+    text-align: left;
+    padding: 20px 100px 200px 850px;
+
+}
+.container2 .block2 h2{
+	color: #e7e7e7;
+	font-size: 70px;
+	font-family: 'Proxima Nova Bold';
+	text-transform: uppercase;
+    padding: 200px 0px 0px 15px;
+}
+.container2 .text_bottom1{
+    font-size: 20px;
+    color: #000000;
+    text-align: left;
+ padding: 30px 0px 0px 15px;
+}
+
+.container2 .block3 h2{
+	color: #e7e7e7;
+	font-size: 90px;
+	font-family: 'Proxima Nova Bold';
+	text-transform: uppercase;
+	margin-top: 200px;
+    text-align: right;
+    padding: 300px 80px 0px 0px;
+}
+.container2 .text_bottom2{
+    font-size: 20px;
+    color: #000000;
+    text-align: left;
+    padding: 20px 100px 200px 850px;
+}
+.container2 .text_center span{
+	font-size: 18px;
+	border-bottom: 5px solid #5e42b0;
+	position: relative;
+    top: 35px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.container2 .blo{
+    position: absolute;
+    width: 170px;
+    height: 155px;
+    background-color: blueviolet;
+    text-align: center;
+margin-left: 620px;
+margin-top: -505px;
+}
+.container2 .text_center1 span{
+	font-size: 18px;
+	border-bottom: 5px solid #5e42b0;
+	position: relative;
+    top: 35px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.container2 .blo1{
+    position: absolute;
+    width: 170px;
+    height: 155px;
+    background-color: blueviolet;
+    text-align: center;
+margin-left: 580px;
+margin-top: -280px;
+}
+.container2 .text_center2 span{
+	font-size: 18px;
+	border-bottom: 5px solid #5e42b0;
+	position: relative;
+    top: 35px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.container2 .blo2{
+    position: absolute;
+    width: 170px;
+    height: 155px;
+    background-color: blueviolet;
+    text-align: center;
+margin-left: 615px;
+margin-top: -510px;
+}
